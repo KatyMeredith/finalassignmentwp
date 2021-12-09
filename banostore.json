@@ -1,0 +1,45 @@
+{
+    "companyName": "Bano",
+    "location": "Ottawa",
+    "employees": 234,
+    "specialty": "Bathroom Furniture",
+    "meetingExpectation": true,
+    "products": [
+        {   
+            "image_url": "https://raw.githubusercontent.com/KatyMeredith/finalassignmentwp/main/images/bathtubs/brooke-lark-7P2GGTqXRw4-unsplash.jpg",
+            "item": "Kimbo Bath",
+            "price": 444,
+            "furnitureType": "Vanity"
+        },
+        {
+            "image_url": "https://raw.githubusercontent.com/KatyMeredith/finalassignmentwp/main/images/bathtubs/emily-powers-QMHssrYeK6I-unsplash.jpg",
+            "item": "The Better Bath",
+            "price": 236,
+            "furnitureType": "Vanity"
+        },
+        {
+            "image_url": "https://raw.githubusercontent.com/KatyMeredith/finalassignmentwp/main/images/bathtubs/erik-mclean-rWljZRDE8pc-unsplash.jpg",
+            "item": "Burly Boy Bath",
+            "price": 123,
+            "furnitureType": "Vanity"
+        },
+        {
+            "image_url": "https://raw.githubusercontent.com/KatyMeredith/finalassignmentwp/main/images/bathtubs/eugenivy_now-W_kSkSTmcb4-unsplash.jpg",
+            "item": "Best Of Bath",
+            "price": 433,
+            "furnitureType": "Vanity"
+        },
+        {
+            "image_url": "https://raw.githubusercontent.com/KatyMeredith/finalassignmentwp/main/images/bathtubs/jean-philippe-delberghe-O0mWkPghw6E-unsplash%20(1).jpg",
+            "item": "The Bath and The Beautiful",
+            "price": 122,
+            "furnitureType": "Vanity"
+        },
+        {
+            "image_url": "https://raw.githubusercontent.com/KatyMeredith/finalassignmentwp/main/images/bathtubs/paseidon72-032X6rtmRvY-unsplash.jpg",
+            "item": "Bitter Sweet Bath",
+            "price": 234,
+            "furnitureType": "Vanity"
+        }
+    ]
+}
